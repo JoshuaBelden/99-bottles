@@ -1,0 +1,26 @@
+{
+  "name": "99-bottles",
+  "version": "1.0.0",
+  "description": "Solution to the 99 Bottles of Beer song",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshuaBelden/99-bottles.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshuaBelden/99-bottles/issues"
+  },
+  "homepage": "https://github.com/JoshuaBelden/99-bottles#readme",
+  "dependencies": {
+    "number-to-words": "^1.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
